@@ -22,10 +22,10 @@
     "url": "https://git.hk-modding.org",
     "icon": "https://icons.duckduckgo.com/ip3/git.hk-modding.org.ico",
     "slug": "hk-modding-org-gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 808,
@@ -33,7 +33,9 @@
     "timeWeek": 780,
     "timeMonth": 800,
     "timeYear": 808,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-04": 1
+    }
   },
   {
     "name": "hk-modding.org skin service",
