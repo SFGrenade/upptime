@@ -42,18 +42,20 @@
     "url": "https://skins.hk-modding.org",
     "icon": "https://icons.duckduckgo.com/ip3/skins.hk-modding.org.ico",
     "slug": "hk-modding-org-skin-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1211,
-    "timeDay": 931,
-    "timeWeek": 1873,
-    "timeMonth": 1619,
-    "timeYear": 1211,
-    "dailyMinutesDown": {}
+    "time": 1294,
+    "timeDay": 6050,
+    "timeWeek": 3035,
+    "timeMonth": 1918,
+    "timeYear": 1294,
+    "dailyMinutesDown": {
+      "2025-01-07": 0
+    }
   },
   {
     "name": "sfgrena.de",
