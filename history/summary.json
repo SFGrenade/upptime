@@ -4,10 +4,10 @@
     "url": "https://hk-modding.org",
     "icon": "https://icons.duckduckgo.com/ip3/hk-modding.org.ico",
     "slug": "hk-modding-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1032,
@@ -15,16 +15,18 @@
     "timeWeek": 969,
     "timeMonth": 1081,
     "timeYear": 1032,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-19": 1
+    }
   },
   {
     "name": "hk-modding.org gitea",
     "url": "https://git.hk-modding.org",
     "icon": "https://icons.duckduckgo.com/ip3/git.hk-modding.org.ico",
     "slug": "hk-modding-org-gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -34,6 +36,7 @@
     "timeMonth": 886,
     "timeYear": 848,
     "dailyMinutesDown": {
+      "2025-02-19": 0,
       "2025-02-03": 23,
       "2024-11-04": 30
     }
