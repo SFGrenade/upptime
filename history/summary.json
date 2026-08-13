@@ -28,16 +28,16 @@
     "url": "https://git.hk-modding.org",
     "icon": "https://icons.duckduckgo.com/ip3/git.hk-modding.org.ico",
     "slug": "hk-modding-org-gitea",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "91.74%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.93%",
     "time": 817,
-    "timeDay": 3610,
-    "timeWeek": 1435,
-    "timeMonth": 887,
+    "timeDay": 2713,
+    "timeWeek": 1377,
+    "timeMonth": 888,
     "timeYear": 790,
     "dailyMinutesDown": {
       "2025-09-29": 32,
@@ -45,7 +45,7 @@
       "2026-02-09": 36,
       "2026-03-11": 31,
       "2026-04-12": 74,
-      "2026-08-13": 0
+      "2026-08-13": 119
     }
   },
   {
