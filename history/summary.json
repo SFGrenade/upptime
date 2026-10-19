@@ -4,13 +4,13 @@
     "url": "https://hk-modding.org",
     "icon": "https://icons.duckduckgo.com/ip3/hk-modding.org.ico",
     "slug": "hk-modding-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 915,
+    "time": 914,
     "timeDay": 1088,
     "timeWeek": 970,
     "timeMonth": 907,
@@ -19,7 +19,8 @@
       "2025-12-22": 63,
       "2026-02-09": 36,
       "2026-03-11": 31,
-      "2026-04-12": 74
+      "2026-04-12": 74,
+      "2026-10-19": 1
     }
   },
   {
@@ -27,13 +28,13 @@
     "url": "https://git.hk-modding.org",
     "icon": "https://icons.duckduckgo.com/ip3/git.hk-modding.org.ico",
     "slug": "hk-modding-org-gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 793,
+    "time": 792,
     "timeDay": 811,
     "timeWeek": 757,
     "timeMonth": 770,
@@ -43,7 +44,8 @@
       "2026-02-09": 36,
       "2026-03-11": 31,
       "2026-04-12": 74,
-      "2026-08-13": 119
+      "2026-08-13": 119,
+      "2026-10-19": 1
     }
   },
   {
@@ -51,9 +53,9 @@
     "url": "https://skins.hk-modding.org",
     "icon": "https://icons.duckduckgo.com/ip3/skins.hk-modding.org.ico",
     "slug": "hk-modding-org-skin-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -65,7 +67,8 @@
     "dailyMinutesDown": {
       "2026-02-09": 36,
       "2026-03-11": 31,
-      "2026-04-12": 74
+      "2026-04-12": 74,
+      "2026-10-19": 0
     }
   },
   {
@@ -73,9 +76,9 @@
     "url": "https://sfgrena.de",
     "icon": "https://icons.duckduckgo.com/ip3/sfgrena.de.ico",
     "slug": "sfgrena-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -88,7 +91,8 @@
       "2026-02-09": 36,
       "2026-03-11": 31,
       "2026-04-12": 74,
-      "2026-05-29": 72
+      "2026-05-29": 72,
+      "2026-10-19": 0
     }
   }
 ]
